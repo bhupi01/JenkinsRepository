@@ -1,7 +1,7 @@
 package org.ravi.helloworld;
-// This is a sample code which I have changed
-public class Hello {
 
+public class Hello {
+        //Fixed the code to pass SonarCube
         String message = "Hi"
 	public String displayHelloMessage(){
 		return message;
